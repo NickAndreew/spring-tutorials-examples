@@ -1,0 +1,6 @@
+com\mkyong\model\UploadModel.class
+com\mkyong\exception\RestGlobalExceptionHandler.class
+com\mkyong\exception\CustomError.class
+com\mkyong\controller\IndexController.class
+com\mkyong\SpringBootWebApplication.class
+com\mkyong\controller\RestUploadController.class
